@@ -19,7 +19,11 @@ python train.py
 ## Options
 - To run without tcnn, set `self.use_tcnn = False` in `model/network.py`.
 ## Results
-add drive link to trained model
+Model trained for 32000 epochs on full scale images of lego dataset:
+<p float="middle">
+	<img src="results/rgb.gif" width="250" height="250" title="output1"/> 
+	<img src="results/depth.gif" width="250" height="250" title="result1"/>
+</p>
 
 ## To DO
 create a requirements.txt file with all required packages
