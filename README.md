@@ -25,7 +25,7 @@ Model trained for 32000 epochs on full scale images of lego dataset:
 </p>
 
 ## To Do
-- [] create a requirements.txt file with all required packages.
+- [ ] create a requirements.txt file with all required packages.
 ```
 torch
 cv2
